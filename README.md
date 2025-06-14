@@ -12,7 +12,10 @@ A modern, interactive travel booking web application with a unique "add-to-cart"
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployed-url-here.netlify.app)
+🌐 **[View Live Demo on GitHub Pages](https://yourusername.github.io/trawell-app)**
+*(Replace 'yourusername' with your actual GitHub username)*
+
+📱 **Fully responsive** - Works perfectly on desktop and mobile!
 
 ## 🛠️ Technologies Used
 
