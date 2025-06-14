@@ -157,22 +157,37 @@ main {
 /* Destination Background Images */
 .shimla-bg {
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200"><rect fill="%23E3F2FD" width="400" height="200"/><polygon fill="%23FFFFFF" points="0,200 100,50 200,100 300,40 400,80 400,200"/><circle fill="%23FFF9C4" cx="320" cy="60" r="30"/><text x="200" y="100" text-anchor="middle" fill="%234A90E2" font-size="24" font-weight="bold">SHIMLA</text></svg>');
+                url('images/shimla.png');
+    background-size: cover;
+    background-position: center;
 }
 
 .goa-bg {
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200"><rect fill="%234FC3F7" width="400" height="200"/><ellipse fill="%23FFF9C4" cx="200" cy="50" rx="150" ry="30"/><rect fill="%23D7CCC8" y="150" width="400" height="50"/><text x="200" y="120" text-anchor="middle" fill="%23FFFFFF" font-size="24" font-weight="bold">GOA</text></svg>');
+                url('images/goa.png');
+    background-size: cover;
+    background-position: center;
 }
 
 .rajasthan-bg {
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200"><rect fill="%23FF8A65" width="400" height="200"/><polygon fill="%23FFCC02" points="150,80 200,40 250,80 250,120 150,120"/><polygon fill="%23FFA726" points="200,40 200,120 250,80"/><circle fill="%23FFF9C4" cx="100" cy="50" r="25"/><text x="200" y="160" text-anchor="middle" fill="%23FFFFFF" font-size="20" font-weight="bold">RAJASTHAN</text></svg>');
+                url('images/rajasthan.png');
+    background-size: cover;
+    background-position: center;
 }
 
 .kerala-bg {
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200"><rect fill="%234CAF50" width="400" height="200"/><ellipse fill="%232E7D32" cx="200" cy="180" rx="180" ry="30"/><circle fill="%23C8E6C9" cx="150" cy="70" r="40"/><circle fill="%23A5D6A7" cx="250" cy="90" r="35"/><text x="200" y="140" text-anchor="middle" fill="%23FFFFFF" font-size="22" font-weight="bold">KERALA</text></svg>');
+                url('images/kerala.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.VaishnoDevi-bg {
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
+                url('images/vaishnodevi.png');
+    background-size: cover;
+    background-position: center;
 }
 
 .destination-info {
